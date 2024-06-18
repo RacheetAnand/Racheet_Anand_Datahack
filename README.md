@@ -6,6 +6,6 @@ then I have Used One Hot Encoding for the nominal values and Ordinal Encoding fo
 
 then I Used Train Test Split with 80 : 20 ratio and Trained the Models
 
-Out of LogReg, KNN, SVM, NaiveBayes -> LinReg and SVM had the best Accuracy but the F1 Score of the LinReg was a Little Better
+Out of Multilabel LogReg, KNN, SVM, NaiveBayes -> Label Powerset LonReg and SVM had the best Accuracy but the F1 Score of the LinReg was a Little Better
 
-So I made the Submission CSV from the Logistic Regression Model
+So I made the Final Submission CSV from the Label Powerset Logistic Regression Model
